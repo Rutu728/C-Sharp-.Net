@@ -1,0 +1,11 @@
+F:\C# Project Batch (Proj 07)\Assignment 02\Employee_Management_System\Employee_Management_System\bin\Debug\Employee_Management_System.exe
+F:\C# Project Batch (Proj 07)\Assignment 02\Employee_Management_System\Employee_Management_System\bin\Debug\Employee_Management_System.pdb
+F:\C# Project Batch (Proj 07)\Assignment 02\Employee_Management_System\Employee_Management_System\obj\x86\Debug\Employee_Management_System.csprojResolveAssemblyReference.cache
+F:\C# Project Batch (Proj 07)\Assignment 02\Employee_Management_System\Employee_Management_System\obj\x86\Debug\Employee_Management_System.frm_Add_New_Employee.resources
+F:\C# Project Batch (Proj 07)\Assignment 02\Employee_Management_System\Employee_Management_System\obj\x86\Debug\Employee_Management_System.frm_login.resources
+F:\C# Project Batch (Proj 07)\Assignment 02\Employee_Management_System\Employee_Management_System\obj\x86\Debug\Employee_Management_System.Properties.Resources.resources
+F:\C# Project Batch (Proj 07)\Assignment 02\Employee_Management_System\Employee_Management_System\obj\x86\Debug\Employee_Management_System.csproj.GenerateResource.Cache
+F:\C# Project Batch (Proj 07)\Assignment 02\Employee_Management_System\Employee_Management_System\obj\x86\Debug\Employee_Management_System.exe
+F:\C# Project Batch (Proj 07)\Assignment 02\Employee_Management_System\Employee_Management_System\obj\x86\Debug\Employee_Management_System.pdb
+F:\C# Project Batch (Proj 07)\Assignment 02\Employee_Management_System\Employee_Management_System\obj\x86\Debug\Employee_Management_System.frm_View_All_Employee.resources
+F:\C# Project Batch (Proj 07)\Assignment 02\Employee_Management_System\Employee_Management_System\bin\Debug\Employee_Management_System.exe.config
